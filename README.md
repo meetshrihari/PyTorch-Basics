@@ -1,14 +1,10 @@
 <div style="border-bottom:none;">
   <div align="center">
-    <img src="Logos/1*aqNgmfyBIStLrf9k7d9cng.jpeg" width="300">
+    <img src="Logo/1*aqNgmfyBIStLrf9k7d9cng.jpeg" width="300">
     <h1>PyTorch Basics<h1>
-      <img src="Logos/fau-logo-tech.png" width="300">
-      <h2>Winter Semester 2019<h2>
+      <h2>Learn Basic PyTorch<h2>
   </div>
 </div>
-
-# PyTorch-Basics
-Learn Basic PyTorch
 
 # Content:
 Part 1 - Basic introduction to PyTorch\
