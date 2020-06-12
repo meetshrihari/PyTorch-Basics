@@ -1,8 +1,8 @@
-<div style="border-bottom:none;">
+<div style="border-bottom:none;" />
   <div align="center">
-    <img src="Logo/1*aqNgmfyBIStLrf9k7d9cng.jpeg" width="300">
-    <h1>PyTorch Basics<h1>
-      <h2>Learn Basic PyTorch<h2>
+    <img src="Logo/1*aqNgmfyBIStLrf9k7d9cng.jpeg" width="300" />
+    <h1>PyTorch Basics</h1>
+      <h2>Learn Basic PyTorch</h2>
   </div>
 </div>
 
